@@ -2,7 +2,7 @@
     "parks": [
       {
         "id": 1,
-        "name": "Park 1",
+        "name": "Parque dos Dinos",
         "email": "Telly.Hoeger@billy.biz",
         "address": "alasdasdas damsd, asd asd as",
         "phone": "210.067.6132",
@@ -12,7 +12,7 @@
       },
       {
         "id": 2,
-        "name": "Parque 2",
+        "name": "Parque com água",
         "email": "Telly.Hoeger@billy.biz",
         "address": "alasdasdas damsd, asd asd as",
         "phone": "210.067.6132",
@@ -22,7 +22,7 @@
       },
       {
         "id": 3,
-        "name": "Parque 3",
+        "name": "Parque com animais",
         "email": "Telly.Hoeger@billy.biz",
         "address": "alasdasdas damsd, asd asd as",
         "phone": "210.067.6132",
@@ -32,7 +32,7 @@
       },
       {
         "id": 4,
-        "name": "Parque 4",
+        "name": "Parque com plantas",
         "email": "Telly.Hoeger@billy.biz",
         "address": "alasdasdas damsd, asd asd as",
         "phone": "210.067.6132",
@@ -42,7 +42,7 @@
       },
       {
         "id": 5,
-        "name": "Parque 5",
+        "name": "Parque com tudo",
         "email": "Telly.Hoeger@billy.biz",
         "address": "alasdasdas damsd, asd asd as",
         "phone": "210.067.6132",
@@ -52,7 +52,7 @@
       },
       {
         "id": 6,
-        "name": "Parque 6",
+        "name": "Parque sem nada",
         "email": "Telly.Hoeger@billy.biz",
         "address": "alasdasdas damsd, asd asd as",
         "phone": "210.067.6132",
