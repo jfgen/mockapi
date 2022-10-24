@@ -1,0 +1,64 @@
+{
+    "parks": [
+      {
+        "id": 1,
+        "name": "Park 1",
+        "email": "Telly.Hoeger@billy.biz",
+        "address": "alasdasdas damsd, asd asd as",
+        "phone": "210.067.6132",
+        "website": "http://example.com",
+        "photoboxes": 3,
+        "photosTaken": 200
+      },
+      {
+        "id": 2,
+        "name": "Parque 2",
+        "email": "Telly.Hoeger@billy.biz",
+        "address": "alasdasdas damsd, asd asd as",
+        "phone": "210.067.6132",
+        "website": "http://example.com",
+        "photoboxes": 3,
+        "photosTaken": 200
+      },
+      {
+        "id": 3,
+        "name": "Parque 3",
+        "email": "Telly.Hoeger@billy.biz",
+        "address": "alasdasdas damsd, asd asd as",
+        "phone": "210.067.6132",
+        "website": "http://example.com",
+        "photoboxes": 2,
+        "photosTaken": 476
+      },
+      {
+        "id": 4,
+        "name": "Parque 4",
+        "email": "Telly.Hoeger@billy.biz",
+        "address": "alasdasdas damsd, asd asd as",
+        "phone": "210.067.6132",
+        "website": "http://example.com",
+        "photoboxes": 10,
+        "photosTaken": 3
+      },
+      {
+        "id": 5,
+        "name": "Parque 5",
+        "email": "Telly.Hoeger@billy.biz",
+        "address": "alasdasdas damsd, asd asd as",
+        "phone": "210.067.6132",
+        "website": "http://example.com",
+        "photoboxes": 5,
+        "photosTaken": 2000
+      },
+      {
+        "id": 6,
+        "name": "Parque 6",
+        "email": "Telly.Hoeger@billy.biz",
+        "address": "alasdasdas damsd, asd asd as",
+        "phone": "210.067.6132",
+        "website": "http://example.com",
+        "photoboxes": 3,
+        "photosTaken": 100
+      }
+    ]
+}
