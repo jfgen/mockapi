@@ -65,72 +65,72 @@
     {
       "id": 1,
       "photosTaken": 10,
-      "park_id": 1
+      "parkId": 1
     },
     {
       "id": 2,
       "photosTaken": 1,
-      "park_id": 1
+      "parkId": 1
     },
     {
       "id": 3,
       "photosTaken": 70,
-      "park_id": 1
+      "parkId": 1
     },
     {
       "id": 4,
       "photosTaken": 5,
-      "park_id": 1
+      "parkId": 1
     },
     {
       "id": 5,
       "photosTaken": 2,
-      "park_id": 6
+      "parkId": 6
     },
     {
       "id": 6,
       "photosTaken": 23,
-      "park_id": 6
+      "parkId": 6
     },
     {
       "id": 7,
       "photosTaken": 32,
-      "park_id": 6
+      "parkId": 6
     },
     {
       "id": 8,
       "photosTaken": 87,
-      "park_id": 6
+      "parkId": 6
     },
     {
       "id": 9,
       "photosTaken": 8,
-      "park_id": 5
+      "parkId": 5
     },
     {
       "id": 10,
       "photosTaken": 25,
-      "park_id": 5
+      "parkId": 5
     },
     {
       "id": 11,
       "photosTaken": 11,
-      "park_id": 1
+      "parkId": 1
     },
     {
       "id": 12,
       "photosTaken": 100,
-      "park_id": 2
+      "parkId": 2
     },
     {
       "id": 13,
       "photosTaken": 130,
-      "park_id": 2
+      "parkId": 2
     },
     {
       "id": 14,
       "photosTaken": 87,
-      "park_id": 2
+      "parkId": 2
     }
   ]
 }
