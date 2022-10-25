@@ -1,64 +1,136 @@
 {
-    "parks": [
-      {
-        "id": 1,
-        "name": "Parque dos Dinos",
-        "email": "Telly.Hoeger@billy.biz",
-        "address": "alasdasdas damsd, asd asd as",
-        "phone": "210.067.6132",
-        "website": "http://example.com",
-        "photoboxes": 3,
-        "photosTaken": 200
-      },
-      {
-        "id": 2,
-        "name": "Parque com água",
-        "email": "Telly.Hoeger@billy.biz",
-        "address": "alasdasdas damsd, asd asd as",
-        "phone": "210.067.6132",
-        "website": "http://example.com",
-        "photoboxes": 3,
-        "photosTaken": 200
-      },
-      {
-        "id": 3,
-        "name": "Parque com animais",
-        "email": "Telly.Hoeger@billy.biz",
-        "address": "alasdasdas damsd, asd asd as",
-        "phone": "210.067.6132",
-        "website": "http://example.com",
-        "photoboxes": 2,
-        "photosTaken": 476
-      },
-      {
-        "id": 4,
-        "name": "Parque com plantas",
-        "email": "Telly.Hoeger@billy.biz",
-        "address": "alasdasdas damsd, asd asd as",
-        "phone": "210.067.6132",
-        "website": "http://example.com",
-        "photoboxes": 10,
-        "photosTaken": 3
-      },
-      {
-        "id": 5,
-        "name": "Parque com tudo",
-        "email": "Telly.Hoeger@billy.biz",
-        "address": "alasdasdas damsd, asd asd as",
-        "phone": "210.067.6132",
-        "website": "http://example.com",
-        "photoboxes": 5,
-        "photosTaken": 2000
-      },
-      {
-        "id": 6,
-        "name": "Parque sem nada",
-        "email": "Telly.Hoeger@billy.biz",
-        "address": "alasdasdas damsd, asd asd as",
-        "phone": "210.067.6132",
-        "website": "http://example.com",
-        "photoboxes": 3,
-        "photosTaken": 100
-      }
-    ]
+  "parks": [
+    {
+      "id": 1,
+      "name": "Parque dos Dinos",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": "alasdasdas damsd, asd asd as",
+      "phone": "210.067.6132",
+      "website": "http://example.com",
+      "photoboxes": 3,
+      "photosTaken": 200
+    },
+    {
+      "id": 2,
+      "name": "Parque com água",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": "alasdasdas damsd, asd asd as",
+      "phone": "210.067.6132",
+      "website": "http://example.com",
+      "photoboxes": 3,
+      "photosTaken": 200
+    },
+    {
+      "id": 3,
+      "name": "Parque com animais",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": "alasdasdas damsd, asd asd as",
+      "phone": "210.067.6132",
+      "website": "http://example.com",
+      "photoboxes": 2,
+      "photosTaken": 476
+    },
+    {
+      "id": 4,
+      "name": "Parque com plantas",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": "alasdasdas damsd, asd asd as",
+      "phone": "210.067.6132",
+      "website": "http://example.com",
+      "photoboxes": 10,
+      "photosTaken": 3
+    },
+    {
+      "id": 5,
+      "name": "Parque com tudo",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": "alasdasdas damsd, asd asd as",
+      "phone": "210.067.6132",
+      "website": "http://example.com",
+      "photoboxes": 5,
+      "photosTaken": 2000
+    },
+    {
+      "id": 6,
+      "name": "Parque sem nada",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": "alasdasdas damsd, asd asd as",
+      "phone": "210.067.6132",
+      "website": "http://example.com",
+      "photoboxes": 3,
+      "photosTaken": 100
+    }
+  ],
+  "photoboxes": [
+    {
+      "id": 1,
+      "photosTaken": 10,
+      "park_id": 1
+    },
+    {
+      "id": 2,
+      "photosTaken": 1,
+      "park_id": 1
+    },
+    {
+      "id": 3,
+      "photosTaken": 70,
+      "park_id": 1
+    },
+    {
+      "id": 4,
+      "photosTaken": 5,
+      "park_id": 1
+    },
+    {
+      "id": 5,
+      "photosTaken": 2,
+      "park_id": 6
+    },
+    {
+      "id": 6,
+      "photosTaken": 23,
+      "park_id": 6
+    },
+    {
+      "id": 7,
+      "photosTaken": 32,
+      "park_id": 6
+    },
+    {
+      "id": 8,
+      "photosTaken": 87,
+      "park_id": 6
+    },
+    {
+      "id": 9,
+      "photosTaken": 8,
+      "park_id": 5
+    },
+    {
+      "id": 10,
+      "photosTaken": 25,
+      "park_id": 5
+    },
+    {
+      "id": 11,
+      "photosTaken": 11,
+      "park_id": 1
+    },
+    {
+      "id": 12,
+      "photosTaken": 100,
+      "park_id": 2
+    },
+    {
+      "id": 13,
+      "photosTaken": 130,
+      "park_id": 2
+    },
+    {
+      "id": 14,
+      "photosTaken": 87,
+      "park_id": 2
+    }
+  ]
 }
